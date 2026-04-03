@@ -1,12 +1,12 @@
 ## 🚀 Overview
 
-This project demonstrates a production-inspired architecture for building scalable AI-powered applications using modern full-stack technologies.
+A production-inspired backend system for routing requests across multiple AI providers with fallback logic and response normalization.
 
-Designed with a focus on:
-- clean system architecture
-- scalability and extensibility
-- real-world product workflows
-- AI integration patterns
+Designed to demonstrate:
+- multi-model AI integration
+- provider abstraction
+- fallback strategies
+- clean backend architecture
 
 This is not just a demo — it reflects how real systems are structured and evolved.
 
