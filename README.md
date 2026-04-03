@@ -6,6 +6,8 @@ I kept the footprint small on purpose: it should be easy to read in one sitting,
 
 If you are here from a job posting or a mutual contact: clone it, run it with the mock provider (no keys required), skim `docs/architecture.md` if you want the tour, and poke the `/docs` UI locally. That is the fastest way to see what is going on.
 
+Source on GitHub: [github.com/SamuelKunle/llm-routing-engine](https://github.com/SamuelKunle/llm-routing-engine)
+
 ---
 
 ## What you get
