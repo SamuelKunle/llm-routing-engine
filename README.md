@@ -1,3 +1,15 @@
+## 🚀 Overview
+
+This project demonstrates a production-inspired architecture for building scalable AI-powered applications using modern full-stack technologies.
+
+Designed with a focus on:
+- clean system architecture
+- scalability and extensibility
+- real-world product workflows
+- AI integration patterns
+
+This is not just a demo — it reflects how real systems are structured and evolved.
+
 # LLM routing engine
 
 This is a small FastAPI service I built to show how I think about backend structure when multiple LLM providers are in play. You send a chat-style request, the app picks a provider (or falls through to the next one if something breaks), and you always get back the same JSON shape no matter who answered.
